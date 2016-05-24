@@ -6,6 +6,7 @@ import ImageLoader from './ImageLoader.js';
 
 
 let loader=new ImageLoader();
+
 {
   $(".progress").hide();
   loader.on(document.getElementById("progressbar"));
