@@ -9,7 +9,7 @@ A little excise for Asynchronous image loading and use Jasmine as unit test.
 ```bash
 $ git clone git@github.com:YiranQiao/ImageLoader.git
 ```
-*then install dependency
+* then install dependency
 
 ```bash
 $ npm install
